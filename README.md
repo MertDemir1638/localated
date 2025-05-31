@@ -1,3 +1,3 @@
-# localated
+# mert-workstation
 localated studies
 .................
